@@ -1,0 +1,8 @@
+{
+  "name": "LyricsFloating",
+  "description": "Letras flotantes estilo Apple Music",
+  "main": "index.js",
+  "author": "Maguz0",
+  "version": "1.0.0",
+  "icon": "icon.png"
+}
